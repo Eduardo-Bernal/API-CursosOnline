@@ -7,8 +7,7 @@ using System.Text;
 
 namespace CursosOnline.Applications.Autenticacao
 {
-    public class GeradorTokenJwt
-    {
+   
         public class GeradorTokenJwt
         {
             private readonly IConfiguration _config;
@@ -52,4 +51,4 @@ namespace CursosOnline.Applications.Autenticacao
 
         }
     }
-}
+
